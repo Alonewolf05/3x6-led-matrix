@@ -4,6 +4,7 @@ High Power Led Matrix Schematic and PCB Design
 Using transistors, shift registers can be used for high power LED applications.
 
 There are 8 pins and micro usb type-b inputs for this board. USB is just for powering the board. No data tranferrings.
+ICs are SN74HC595 modules with SOIC127 package.
 
 Pin | Pin Description
 ------------ | -------------
